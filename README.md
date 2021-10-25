@@ -32,4 +32,5 @@
 ![pic](需求2.png "消費需求")
 ![pic](需求3.png "消費需求")
 
-![PERT](PERT.png "PERT")
+##PERT/CPM圖
+![PERT](PERT.PNG "PERT")
