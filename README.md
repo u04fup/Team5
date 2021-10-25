@@ -31,3 +31,5 @@
 ![pic](需求1.png "消費需求")
 ![pic](需求2.png "消費需求")
 ![pic](需求3.png "消費需求")
+
+![PERT](PERT.png "PERT")
